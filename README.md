@@ -9,6 +9,7 @@ This project explores the use of machine learning algorithms to predict salaries
 ## Dataset
 You can check it here:
 https://drive.google.com/file/d/1F0eScJlePaZkQJxBNCJHhU6p3pE7LHFO/view?usp=drive_link
+
 The dataset contains:
 - `experience_years`: Number of years of work experience.
 - `salary`: Annual salary in USD.
